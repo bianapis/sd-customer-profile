@@ -1,0 +1,10 @@
+{
+  "customerRelationshipRatingValidFromToDate" : "2020-12-20 / 2020-12-21",
+  "customerRelationshipRatingReference" : "789456323",
+  "customerRelationshipRatingNarrative" : "High reliability",
+  "customerReference" : "852147963",
+  "customerProfileRecord" : {},
+  "customerProfileReference" : "789456321",
+  "customerRelationshipRatingType" : "credit rating",
+  "customerRelationshipRating" : "Rating 5 points"
+}

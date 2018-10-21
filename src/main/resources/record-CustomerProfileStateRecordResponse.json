@@ -1,0 +1,12 @@
+{
+  "customerRelationshipState" : "PENDING",
+  "customerRelationshipStateValidFromToDate" : "2020-12-20 / 2020-12-21",
+  "recordingRecordReference" : "RRR4678",
+  "customerReference" : "852147963",
+  "customerProfileRecord" : {},
+  "customerRelationshipStateType" : "account in distress",
+  "customerProfileReference" : "789456321",
+  "customerRelationshipStateNarrative" : "pending approval",
+  "recordingRecordStatus" : "Applied",
+  "customerRelationshipStateReference" : "789456323"
+}
